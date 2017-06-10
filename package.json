@@ -29,12 +29,12 @@
     "prettier": "^1.2.2",
     "prop-types": "^15.5.8",
     "react-dom": "^15.5.4",
+    "react-element-to-jsx-string": "https://github.com/arahansen/react-element-to-jsx-string#6daa99e0b70c74cc1fac4233a7dfdb6753f186cf",
     "react-test-renderer": "^15.5.4",
     "rimraf": "^2.6.1"
   },
   "dependencies": {
     "react": "^15.5.4",
-    "react-copy-to-clipboard": "4.3.1",
-    "react-element-to-jsx-string": "^6.4.0"
+    "react-copy-to-clipboard": "4.3.1"
   }
 }
